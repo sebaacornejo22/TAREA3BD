@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datos grandes
+data/mongo-1/
+data/mongo-2/
+data/mongo-3/
+
+# Entornos virtuales
+venv/
+.env
