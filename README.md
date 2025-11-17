@@ -3,8 +3,8 @@
 ## Nombre y Rol
 - **Nombre:** Sebastián Ignacio Cornejo Yañez  
 - **Rol:** 202373602-3  
-- **Nombre:** 
-- **Rol:** 
+- **Nombre:** Emilio Jesus Moran Valdebenito
+- **Rol:** 202473575-6
 
 ---
 
